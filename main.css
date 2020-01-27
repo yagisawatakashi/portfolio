@@ -6,7 +6,10 @@ p {
 body {
     background-color: lightskyblue ;
 }
-b {
+x {
     color : red
 }
+d {
+    font-size: 200%;
+    }
 
